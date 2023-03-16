@@ -1,11 +1,11 @@
 ![](https://i.ibb.co/hRQGNqf/image-1.png)
 
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=435&lines=Full+Stack+Developer;Ethical+Hacker;Reverse+Engineer;Tech+Enthusiast;Android+and+IOS+Developer)](https://github.com/aaditya-paul/aaditya-paul)
+# Hi there 👋
 
 **Thanks for visiting my github profile ... it's great to have you here !**
 
 [![Github](https://img.shields.io/github/followers/aaditya-paul?label=Follow&style=social)](https://github.com/aaditya-paul)
-
 
 - 🔭 I’m a **Fullstack Developer**, I can make professional looking *Websites* and *Applications for both android and ios*.
 - 🌱 I’m currently exploring the depths of *javascript* by learning and experimenting with it's frameworks like *threejs , nextjs , electron , etc*...
