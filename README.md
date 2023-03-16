@@ -14,5 +14,17 @@
 - 📫 How to reach me: You can DM me at my **[INSTAGRAM](https://www.instagram.com/__the.frustrated.guy__/)** or at my **[EMAIL](mailto:aadityapaul2006.programmer@gmail.com)**
 - 😄 Pronouns: I'm a **male** and my pronouns are **he/him**
 - ⚡ Fun fact: I'm a *terrible* singer 🗿 
+- ### Now Listening to ... ###
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dbqpowuyalb5slmkv2m3elzavu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+  
+  
+
+
+
+<!-- ### My holopins
+
+[![An image of @aadityapaul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadityapaul)](https://holopin.io/@aadityapaul) -->
 
 Last but not the least, accepting project requests in [Fiverr](https://www.fiverr.com/share/a9jk1G)
+
+
