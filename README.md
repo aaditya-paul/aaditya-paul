@@ -15,4 +15,4 @@
 - 😄 Pronouns: I'm a **male** and my pronouns are **he/him**
 - ⚡ Fun fact: I'm a *terrible* singer 🗿 
 
-Last but not the least, accepting orders in [Fiverr](https://www.fiverr.com/share/a9jk1G)
+Last but not the least, accepting gig requests in [Fiverr](https://www.fiverr.com/share/a9jk1G)
