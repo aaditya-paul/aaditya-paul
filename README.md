@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/hRQGNqf/image-1.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=435&lines=Full+Stack+Developer;Ethical+Hacker;Reverse+Engineer;Tech+Enthusiast;Android+and+IOS+Developer)](https://github.com/aaditya-paul/aaditya-paul)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=435&lines=Full+Stack+Developer;Ethical+Hacker;Reverse+Engineer;Tech+Enthusiast;Android+and+IOS+Developer)](https://github.com/aaditya-paul)
 # Hi there 👋
 
 **Thanks for visiting my github profile ... it's great to have you here !**
