@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/hRQGNqf/image-1.png)
 
-### Hi there 👋
+## Hi there 👋
 
 **Thanks for visiting my github profile ... it's great to have you here !**
 
