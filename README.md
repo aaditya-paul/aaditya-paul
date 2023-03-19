@@ -98,8 +98,7 @@ ios*.
 
 ### Some of my trophies 🦖 (I am working to achieve more 🧑🏽‍💻) ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aaditya-paul&theme=onedark)](https://github.com/aaditya-paul/aaditya-paul)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=aaditya-paul&theme=dracula)](https://github.com/aaditya-paul/aaditya-paul)
 ### My holopins (I am working to achieve more 🧑🏽‍💻)
 
 
