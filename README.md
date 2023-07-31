@@ -21,7 +21,7 @@ ios*.
 - 😄 Pronouns: I'm a **male** and my pronouns are **he/him**
 - ⚡ Fun fact: I'm a *terrible* singer 🗿
 - ### Now Listening to ... ###
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dbqpowuyalb5slmkv2m3elzavu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31dbqpowuyalb5slmkv2m3elzavu&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ngqdbskmqk5mk09tremethz4n&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=ad2525&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ngqdbskmqk5mk09tremethz4n&redirect=true)
 
 <h3 align="left">Languages and Tools I use (currently exploring and experimenting with some of them 😉):</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
