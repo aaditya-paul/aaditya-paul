@@ -14,7 +14,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&
 ios*.
 - 🌱 I’m currently exploring the depths of *javascript* by learning and experimenting with it's frameworks like *threejs
 , nextjs , electron , etc*...
-- 👯 I always look forward to to meet and colaborate with new people and gain experience.
+- 👯 I always look forward to to meet and collaborate with new people and gain experience.
 - 🧑🏽‍💻 I sometimes make fun but useless projects, but i'm proud of them! 👻
 - 📫 How to reach me: You can DM me at my **[INSTAGRAM](https://www.instagram.com/__the.frustrated.guy__/)** or at my
 **[EMAIL](mailto:aadityapaul2006.programmer@gmail.com)**
