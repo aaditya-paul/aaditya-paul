@@ -27,7 +27,8 @@ Hobbies.Hardware: Reverse Engineering, Ethical Hacking
 Contact: 
 _______
 Github: @aaditya-paul  
-Instagram: [@__the.frustrated.guy__](https://www.instagram.com/__the.frustrated.guy__)  
+Instagram: [@__the.frustrated.guy__](https://www.instagram.com/__the.frustrated.guy__)
+LinkedIn: [aaditya-paul](https://www.linkedin.com/in/aaditya-paul/)  
 Email: [aadityapaul2006.programmer@gmail.com](mailto:aadityapaul2006.programmer@gmail.com)
 ```
 
