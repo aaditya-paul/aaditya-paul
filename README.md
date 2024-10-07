@@ -11,13 +11,13 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&
 aaditya-paul@github
 _______________
 
-OS: macOS, Linux, Android  
+OS: Windows, Linux, Android
 Uptime: 18y 4m 12d   
 Kernel: Full Stack Developer, Ethical Hacker  
-IDE: VSCode, Android Studio, Neo Vim  
+IDE: VSCode, Android Studio, Neo Vim, Turbo C 
 Terminal: iTerm2, Bash, Zsh
 
-Languages.Programming: JavaScript, Python, C++  
+Languages.Programming: JavaScript, Python, C++, C, Go, Rust, NodeJS
 Languages.Computer: HTML, CSS, YAML, SQL  
 Languages.Real: English, Hindi
 
