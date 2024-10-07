@@ -4,24 +4,35 @@
 SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=435&lines=Full+Stack+Developer;Ethical+Hacker;Reverse+Engineer;Tech+Enthusiast;Android+and+IOS+Developer)](https://github.com/aaditya-paul)
 
 
-# Hi there 👋
+```yaml
+~/aaditya-paul: fetch.sh
+```
+```yaml
+aaditya-paul@github
+_______________
 
-**Thanks for visiting my github profile ... it's great to have you here !**
+OS: macOS, Linux, Android  
+Uptime: 18y 4m 12d   
+Kernel: Full Stack Developer, Ethical Hacker  
+IDE: VSCode, Android Studio, Neo Vim  
+Terminal: iTerm2, Bash, Zsh
 
-[![Github](https://img.shields.io/github/followers/aaditya-paul?label=Follow&style=social)](https://github.com/aaditya-paul)
+Languages.Programming: JavaScript, Python, C++  
+Languages.Computer: HTML, CSS, YAML, SQL  
+Languages.Real: English, Hindi
 
-- 🔭 I’m a **Fullstack Developer**, I can make professional looking *Websites* and *Applications for both android and
-ios*.
-- 🌱 I’m currently exploring the depths of *javascript* by learning and experimenting with it's frameworks like *threejs
-, nextjs , electron , etc*...
-- 👯 I always look forward to to meet and collaborate with new people and gain experience.
-- 🧑🏽‍💻 I sometimes make fun but useless projects, but i'm proud of them! 👻
-- 📫 How to reach me: You can DM me at my **[INSTAGRAM](https://www.instagram.com/__the.frustrated.guy__/)** or at my
-**[EMAIL](mailto:aadityapaul2006.programmer@gmail.com)**
-- 😄 Pronouns: I'm a **male** and my pronouns are **he/him**
-- ⚡ Fun fact: I'm a *terrible* singer 🗿
-- ### Now Listening to ... ###
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ngqdbskmqk5mk09tremethz4n&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=ad2525&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ngqdbskmqk5mk09tremethz4n&redirect=true)
+Hobbies.Software: Web Development, Mobile Apps (Android/iOS)  
+Hobbies.Hardware: Reverse Engineering, Ethical Hacking
+
+Contact: 
+_______
+Github: @aaditya-paul  
+Instagram: [@__the.frustrated.guy__](https://www.instagram.com/__the.frustrated.guy__)  
+Email: [aadityapaul2006.programmer@gmail.com](mailto:aadityapaul2006.programmer@gmail.com)
+```
+
+# Most Used Languages and streaks :
+<div style="display: flex; flex-direction: row; justify-content: space-between;"> <!-- Most Used Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaditya-paul&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true&border_radius=20" style="width: 41%;" alt="aaditya-paul" /> <!-- GitHub Streak Stats --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya-paul&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&border_radius=20" style="width: 58%;" alt="GitHub Streak Stats"/> </div>
 
 <h3 align="left">Languages and Tools I use (currently exploring and experimenting with some of them 😉):</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
@@ -104,5 +115,3 @@ ios*.
 
 [![An image of @aadityapaul's Holopin badges, which is a link to view their full Holopin
 profile](https://holopin.me/aadityapaul)](https://holopin.io/@aadityapaul)
-
-Last but not the least, accepting project requests in [Fiverr](https://www.fiverr.com/share/a9jk1G)
