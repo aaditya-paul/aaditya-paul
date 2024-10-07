@@ -19,7 +19,7 @@ Terminal: iTerm2, Bash, Zsh
 
 Languages.Programming: JavaScript, Python, C++, C, Go, Rust, NodeJS
 Languages.Computer: HTML, CSS, YAML, SQL  
-Languages.Real: English, Hindi
+Languages.Real: English, Hindi, Bengali
 
 Hobbies.Software: Web Development, Mobile Apps (Android/iOS)  
 Hobbies.Hardware: Reverse Engineering, Ethical Hacking
