@@ -32,8 +32,8 @@ LinkedIn: [aaditya-paul](https://www.linkedin.com/in/aaditya-paul/)
 Email: [aadityapaul2006.programmer@gmail.com](mailto:aadityapaul2006.programmer@gmail.com)
 ```
 
-# Most Used Languages and streaks :
-<div style="display: flex; flex-direction: row; justify-content: space-between;"> <!-- Most Used Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaditya-paul&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true&border_radius=20" style="width: 41%;" alt="aaditya-paul" /> <!-- GitHub Streak Stats --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya-paul&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&border_radius=20" style="width: 58%;" alt="GitHub Streak Stats"/> </div>
+
+ <!-- GitHub Streak Stats --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya-paul&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&border_radius=20" style="width: 58%;" alt="GitHub Streak Stats"/> </div>
 
 <h3 align="left">Languages and Tools I use (currently exploring and experimenting with some of them 😉):</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
