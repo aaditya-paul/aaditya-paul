@@ -4,6 +4,8 @@
 SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=435&lines=Full+Stack+Developer;Ethical+Hacker;Reverse+Engineer;Tech+Enthusiast;Android+and+IOS+Developer)](https://github.com/aaditya-paul)
 
 
+ <span style="font-size:56px">[My Portfolio Link](https://www.aaditya-paul.me/)</span>
+
 ```yaml
 ~/aaditya-paul: fetch.sh
 ```
