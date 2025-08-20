@@ -14,7 +14,7 @@ aaditya-paul@github
 _______________
 
 OS: Windows, Linux, Android
-Uptime: 18y 0m 13d   
+Uptime: 19y 0m 13d   
 Kernel: Full Stack Developer, Ethical Hacker  
 IDE: VSCode, Android Studio, Neo Vim, Turbo C 
 Terminal: iTerm2, Bash, Zsh
