@@ -96,7 +96,6 @@ WebSockets     ██████████████░░░░░░░�
 
 <br><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aaditya-paul&theme=darkhub&no-frame=true&row=1&column=6&margin-w=4)](https://github.com/aaditya-paul)
 
 </div>
 
@@ -108,12 +107,12 @@ WebSockets     ██████████████░░░░░░░�
 
 Ready to transmit? Always open to new missions, collabs, or just a good tech conversation.
 
-| Channel | Frequency | Response Time |
+| Channel | ID | Response Time |
 |:---:|:---:|:---:|
 | 📧 [Email](mailto:aadityapaul2006@gmail.com) | aadityapaul2006@gmail.com | < 24h |
 | 💼 [LinkedIn](https://www.linkedin.com/in/aaditya-paul/) | aaditya-paul | < 4h |
 | 🐙 [GitHub](https://github.com/aaditya-paul) | @aaditya-paul | always |
-| 📸 [Instagram](https://www.instagram.com/__the.frustrated.guy__) | @__the.frustrated.guy__ | — |
+| 📸 [Instagram](https://www.instagram.com/__the.frustrated.guy__) | @__ the.frustrated.guy __ | — |
 
 </div>
 
